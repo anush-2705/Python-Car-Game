@@ -1,5 +1,4 @@
 Python Car Game
-
 This is a simple car game built using Python. The game is a fun and interactive project that demonstrates my understanding of fundamental programming concepts, including game logic, object-oriented programming, and user input handling.
 The project was developed as a hands-on exercise to build a complete system from the ground up, with a focus on creating an engaging and functional user experience.
 Features
